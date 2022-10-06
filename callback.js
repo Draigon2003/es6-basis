@@ -10,4 +10,4 @@ function sumar( a, b){
 let resultado=0;
 
 //ejecutar: llamar a sumar
-sumar(7 , 8 ,imprimir(resultado) )
+sumar(10 , 8 ,imprimir(resultado) )
